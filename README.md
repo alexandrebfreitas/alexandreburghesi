@@ -159,7 +159,7 @@ Se você está procurando um desenvolvedor comprometido com qualidade, apaixonad
 
 <div align="center">
 
-### ⭐Não esqueça de deixar! ⭐ Isso me ajuda muito !!!
+### Caro(a) se puder de deixar uma ⭐, isso me ajudaria muito !!!
 
 **Obrigado pela visita!** 👋
 
