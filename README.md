@@ -1,7 +1,7 @@
 <div id="português"></div>
 
 <div align="right">
-<a href="#english"><span style="font-size: 1.5em;">🇺🇸</span></a> <a href="#português"><span style="font-size: 2em;">🇧🇷</span></a>
+<a href="#português"><span >🇧🇷</span></a>  <a href="#english"><span">🇺🇸</span></a> 
 </div>
 
 # 👋 Olá! Eu sou Alexandre Burghesi
@@ -190,7 +190,7 @@ alexandreburghesi@hotmail.com
 <div id="english"></div>
 
 <div align="right">
-<a href="#english"><span style="font-size: 2em;">🇺🇸</span></a> <a href="#português"><span style="font-size: 1.5em;">🇧🇷</span></a>
+<a href="#english"><span>🇺🇸</span></a> <a href="#português"><span>🇧🇷</span></a>  
 </div>
 
 # 👋 Hi! I'm Alexandre Burghesi
