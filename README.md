@@ -82,13 +82,6 @@ Sou um desenvolvedor full stack com expertise em construir aplicações empresar
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrebfreitas&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebfreitas&layout=compact&theme=radical)
-
----
 
 ## 💼 Experiência Destacada
 
@@ -166,7 +159,7 @@ Se você está procurando um desenvolvedor comprometido com qualidade, apaixonad
 
 <div align="center">
 
-### ⭐ Se você gostou dos meus projetos, deixe uma estrela! ⭐
+### ⭐Não esqueça de deixar! ⭐ Isso me ajuda muito !!!
 
 **Obrigado pela visita!** 👋
 
